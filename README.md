@@ -1,6 +1,6 @@
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 <br>
-# [Cryptographically Secure On-Line Identity System](https://pandukonala.github.io/blog-work/quantum/quantum.html)
+# [Cryptographically Secure On-Line Identity System](https://pandukonala.github.io/blog-projects/quantum/quantum.html)
 ## Note
 > View file [Dissertation_35238559.pdf](https://github.com/PanduKonala/Cryptographically-Secure-On-Line-Identity-System/blob/33e87510a4df5c9ca99a4e23b15314574cef3915/Dissertation_35238559.pdf) detailed description.
 ## Overview
